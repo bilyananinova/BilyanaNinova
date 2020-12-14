@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="softunilogo.png" width="1000px"</img> 
+    <img src="softunilogo.png" width="800px"</img> 
 </div>
 
 <table>
