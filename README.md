@@ -19,8 +19,8 @@
             <td><a href="https://softuni.bg/certificates/details/69349/285d32d3">Link</a></td>
             <td><a href="https://softuni.bg/trainings/2467/wordpress-essentials-august-2019">WordPress Essentials</a></td>
             <td><a href="https://softuni.bg/certificates/details/70798/e94e64f4">Link</a></td>
-            <td><a href="https://softuni.bg/trainings/2904/programming-basics-with-javascript-april-2020">Programming Basics with JavaScript - април 2020</a></td>
-            <td><a href="https://softuni.bg/certificates/details/70798/e94e64f4">Link</a></td>
+            <td><a href="https://softuni.bg/trainings/2904/programming-basics-with-javascript-april-2020">Programming Basics with JavaScript</a></td>
+            <td><a href="https://softuni.bg/certificates/details/82235/b1fe98ed">Link</a></td>
         </tr>
         <tr>
         <td><a href="https://softuni.bg/trainings/2543/css-advanced-november-2019">CSS Advanced</a></td>
