@@ -23,12 +23,28 @@
             <td><a href="https://softuni.bg/certificates/details/82235/b1fe98ed">Link</a></td>
         </tr>
         <tr>
-        <td><a href="https://softuni.bg/trainings/2543/css-advanced-november-2019">CSS Advanced</a></td>
-        <td><a href="https://softuni.bg/certificates/details/75151/0669d5c8">Link</a></td>
-        <td></td>
-        <td></td>
-        <td><a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020">JS Fundamentals</a></td>
-        <td><a href="https://softuni.bg/certificates/details/94477/1dca9c93">Link</a></td>
+            <td><a href="https://softuni.bg/trainings/2543/css-advanced-november-2019">CSS Advanced</a></td>
+            <td><a href="https://softuni.bg/certificates/details/75151/0669d5c8">Link</a></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/3133/js-fundamentals-september-2020">JS Fundamentals</a></td>
+            <td><a href="https://softuni.bg/certificates/details/94477/1dca9c93">Link</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/3217/js-advanced-january-2021">JS Advanced</a></td>
+            <td><a href="https://softuni.bg/certificates/details/103928/7d5a81e1">Link</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/3218/js-applications-february-2021">JS Applications</a></td>
+            <td><a href="https://softuni.bg/certificates/details/102521/6e7e560a">Link</a></td>
         </tr>
     </tbody>
 </table>
