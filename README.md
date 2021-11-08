@@ -46,6 +46,14 @@
             <td><a href="https://softuni.bg/trainings/3218/js-applications-february-2021">JS Applications</a></td>
             <td><a href="https://softuni.bg/certificates/details/102521/6e7e560a">Link</a></td>
         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/3496/js-back-end-september-2021">JS Back-End</a></td>
+            <td><a href="https://softuni.bg/certificates/details/117848/37b0cb13">Link</a></td>
+        </tr>
     </tbody>
 </table>
 
