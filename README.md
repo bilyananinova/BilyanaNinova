@@ -62,6 +62,14 @@
             <td><a href="https://softuni.bg/trainings/3575/reactjs-november-2021">ReactJS</a></td>
             <td><a href="https://softuni.bg/certificates/details/122074/a5e78014">Link</a></td>
         </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/3603/angular-march-2022">Angular</a></td>
+            <td><a href="https://softuni.bg/certificates/details/132106/9a9e7459">Link</a></td>
+        </tr>
     </tbody>
 </table>
 
