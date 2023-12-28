@@ -102,6 +102,18 @@
             <td></td>
             <td></td>
         </tr>
+         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="https://softuni.bg/trainings/4320/vuejs-november-2023">VueJS</a></td>
+            <td><a href="https://softuni.bg/certificates/details/199027/3469d75e">Link</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
